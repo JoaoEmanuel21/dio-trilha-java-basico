@@ -28,7 +28,7 @@ public class ContaTerminal {
             } 
             else {
 
-                System.out.println("Você ainda não possui conta no nosso banco");
+                System.out.println("Você ainda não possui conta no nosso banco!");
             }
     }
 }
